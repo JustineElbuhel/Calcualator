@@ -1,0 +1,31 @@
+body {
+    background-color: #e9dee9;
+    color: rgb(41, 15, 15);
+}
+
+.card {
+    border-style: inset !important;
+}
+
+.navbar-nav .nav-link {
+    color: darkred !important;
+}
+
+.navbar-brand {
+    color: rgb(41, 15, 15);
+    font-weight: bolder;
+    margin-left: 1.5rem
+}
+
+.result {
+    background-color: #e9dee9;
+    color: rgb(41, 15, 15);
+}
+
+footer {
+    color: rgb(41, 15, 15) !important;
+}
+
+.text-body-secondary {
+    color: darkred!important;
+}
